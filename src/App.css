@@ -1,0 +1,17 @@
+.List-rest-names {
+  font-size: large;
+  position: absolute;
+  width: 50%;
+}
+
+.Status {
+  font-family: cursive;
+  text-align: center;
+}
+
+.leaflet-container {
+  height: 400px;
+  width: 50%;
+  position: absolute;
+  left: 40%;
+}
